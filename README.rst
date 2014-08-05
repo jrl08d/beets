@@ -92,3 +92,4 @@ please contact the `mailing list`_.
 
 .. _mailing list: https://groups.google.com/forum/#!forum/beets-users
 .. _Adrian Sampson: http://homes.cs.washington.edu/~asampson/
+READ THIS README
